@@ -1,0 +1,22 @@
+{
+  "name": "starwars-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcheung26/Starwars-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcheung26/Starwars-Express/issues"
+  },
+  "homepage": "https://github.com/wcheung26/Starwars-Express#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
